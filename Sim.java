@@ -27,7 +27,7 @@ public class Simulator extends JApplet implements ElevatorSim, Runnable {
 	private JLabel totalTimeLabel;
    Container theContainer;
    Insets inset;
-	
+	haha
 	public void init() {
       inset = new Insets(0,2,0,2);
       theContainer = getContentPane();
