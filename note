@@ -14,7 +14,7 @@ traffic states
 
 
 |Task                              |Lead Responsibility|Type                  |Backup|Due   |Comment               |
-|----------------------------------|-------------------|----------------------|------|------|----------------------|
+|----------------------------------+-------------------+----------------------+------+------+----------------------|
 |Study simulation Methods          |Vivien             |Research/requirements |Luke  |Monday|                      |
 |Git hub running                   |Luke               |Practical/Research    |Fidel |Monday|                      |
 |Lift Traffic Simulation statistics|Fidel              |Research/ Requirements|Luke  |Monday|                      |
